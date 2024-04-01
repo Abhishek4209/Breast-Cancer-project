@@ -22,6 +22,7 @@ list_of_files =[
     f"src/utils.py",
     "import_data.py",
     "setup.py",
+    "app.py",
     "notebook/model.ipynb",
     "notebook/EDA.ipynb",
     "requirements.txt",
