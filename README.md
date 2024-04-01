@@ -6,6 +6,7 @@ This project aims to develop a machine learning model for the classification of 
 ## Dataset
 The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dataset, which is publicly available on the UCI Machine Learning Repository. This dataset contains features computed from digitized images of fine needle aspirate (FNA) of breast masses, and the target variable indicates whether the tumor is malignant or benign.
 
+
 ## Tools and Technologies Used
 - Python programming language
 - Jupyter Notebook for development and experimentation
