@@ -29,7 +29,7 @@ The performance of the developed machine learning models is documented in terms 
 In conclusion, this project demonstrates the feasibility of using machine learning techniques for the classification of breast cancer tumors. The developed model shows promising performance in accurately distinguishing between malignant and benign tumors, which could potentially aid in clinical decision-making and improve patient outcomes.
 
 ## Contributors
-- [Your Name](https://github.com/your_username)
+- [Abhishek Upadhyay](https://github.com/Abhishek4209)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
