@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+Breast_Cancer_project.egg-info/PKG-INFO
+Breast_Cancer_project.egg-info/SOURCES.txt
+Breast_Cancer_project.egg-info/dependency_links.txt
+Breast_Cancer_project.egg-info/requires.txt
+Breast_Cancer_project.egg-info/top_level.txt
