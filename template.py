@@ -1,7 +1,7 @@
 import os 
 from pathlib import Path
 import logging
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO,filename=r"D:\Breast_cancer project\log\logs")
 project_name='Breast_cancer'
 
 

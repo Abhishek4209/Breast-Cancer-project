@@ -1,0 +1,33 @@
+INFO:root:Creating directory:src for the file __init__.py
+INFO:root:Creating empty file: src/__init__.py
+INFO:root:Creating directory:src/components for the file __init__.py
+INFO:root:Creating empty file: src/components/__init__.py
+INFO:root:Creating directory:src/components for the file data_ingestion.py
+INFO:root:Creating empty file: src/components/data_ingestion.py
+INFO:root:Creating directory:src/components for the file data_transformation.py
+INFO:root:Creating empty file: src/components/data_transformation.py
+INFO:root:Creating directory:src/components for the file model_tranier.py
+INFO:root:Creating empty file: src/components/model_tranier.py
+INFO:root:Creating directory:src/pipeline for the file __init__.py
+INFO:root:Creating empty file: src/pipeline/__init__.py
+INFO:root:Creating directory:src/pipeline for the file predict_pipeline.py
+INFO:root:Creating empty file: src/pipeline/predict_pipeline.py
+INFO:root:Creating directory:src/pipeline for the file train_pipeline.py
+INFO:root:Creating empty file: src/pipeline/train_pipeline.py
+INFO:root:Creating directory:src for the file exception.py
+INFO:root:Creating empty file: src/exception.py
+INFO:root:Creating directory:src for the file logger.py
+INFO:root:Creating empty file: src/logger.py
+INFO:root:Creating directory:src for the file utils.py
+INFO:root:Creating empty file: src/utils.py
+INFO:root:Creating empty file: import_data.py
+INFO:root:setup.py is already exists
+INFO:root:Creating empty file: app.py
+INFO:root:Creating directory:notebook for the file model.ipynb
+INFO:root:model.ipynb is already exists
+INFO:root:Creating directory:notebook for the file EDA.ipynb
+INFO:root:EDA.ipynb is already exists
+INFO:root:requirements.txt is already exists
+INFO:root:.gitignore is already exists
+INFO:root:README.md is already exists
+INFO:root:LICENSE is already exists
